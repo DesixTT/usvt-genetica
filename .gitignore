@@ -1,0 +1,10 @@
+# Fișiere de date
+data/
+*.vcf
+*.fastq
+*.fasta
+
+# Fișiere virtual environment Python
+venv/
+__pycache__/
+.env
